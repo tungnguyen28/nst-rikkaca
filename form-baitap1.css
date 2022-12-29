@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    line-height: 1.8em;
+    box-sizing: border-box;
+}
+body{
+    width: 500px;
+    border: 10px solid aqua;
+    padding: 5px;
+    margin: 0 auto;
+}
+h2{
+    background-color: orange;
+    text-align: center;
+
+}
+div{
+    padding: 10px 50px;
+}
+span{
+    width: 200px;
+    text-align: right;
+}
+table{
+    /* border: 1px solid grey; */
+}
+
+tr, td {
+    /* border: 1px solid #dddddd; */
+    padding: 8px;
+    min-width: 100px
+
+    };
+
+td{
+    text-align: right;
+};
+button{
+    padding: 0px 5px;
+};

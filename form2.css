@@ -1,0 +1,25 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+    }
+    td, th {
+    padding: 20px;
+    }
+    th {
+    font-family: 'Tahoma';
+    font-size: 14px;
+    font-weight: 400;
+    border: 1px solid #000;
+    text-align: center;
+    padding: 5px 10px;
+    background: crimson;
+    color: white;
+    }
+    td {
+    font-family: 'Tahoma';
+    font-weight: 400;
+    font-size: 13px;
+    padding: 5px 10px;
+border: 1px solid #000;
+text-align: center;
+}
